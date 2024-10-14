@@ -3,7 +3,7 @@
         <content>
             <!-- Використовуємо VBox для вертикального розміщення елементів -->
             <VBox id="vbox0">
-                <Button text="Hello World" id="button0" press=".onPress"/>
+                <Button text="Hello Wooorld" id="button0" press=".onPress"/>
                 <Image src="https://png.klev.club/uploads/posts/2024-05/png-klev-club-9pi7-p-kot-saimon-png-31.png" width="140px" height="140px" id="image0"/>
             </VBox>
         </content>
